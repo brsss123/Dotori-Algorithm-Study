@@ -1,5 +1,5 @@
 # Dotori-Algorithm-Study
-
+# 태영아 코테좀 풀어라
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dotori%20Algorithm&fontSize=90)
  
 # Algoritm Study 

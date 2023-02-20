@@ -1,7 +1,6 @@
 # Dotori-Algorithm-Study
-# 태영아 코테좀 풀어라
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dotori%20Algorithm&fontSize=90)
- 
+   
 # Algoritm Study 
        
            
@@ -75,5 +74,3 @@
 ![김민찬's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsmchan&show_icons=true&theme=dark)   
 ![윤태영's GitHub stats](https://github-readme-stats.vercel.app/api?username=brsss123&show_icons=true&theme=dark)   
 
-
-윤태영 코테 부시자~

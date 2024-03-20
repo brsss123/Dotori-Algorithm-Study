@@ -3,7 +3,7 @@
    
 # Algoritm Study 
         
-# refTest commit 쳐지나11        
+## 민찬아 이거 언제 다시 하냐   
 ## :raised_hand: 참가인원  
 * 김민찬  ![java](https://img.shields.io./badge/java-007396.svg?style=for-the-badfe&logo=java&logoColor=white)
 * 윤태영  ![java](https://img.shields.io./badge/java-007396.svg?style=for-the-badfe&logo=java&logoColor=white)
